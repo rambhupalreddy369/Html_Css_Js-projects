@@ -1,3 +1,7 @@
+body {
+  padding: 0;
+  margin: 0;
+}
 .thiranga {
 	align-items: center;
 	display: flex;
@@ -19,9 +23,9 @@
 .middle {
 	height: 60px;
 	background-color: #fff;
-	display: flex;
+	/* display: flex;
 	align-items: center;
-	justify-content: center;
+	justify-content: center; */
 }
 .bottom {
 	height: 60px;
